@@ -125,3 +125,11 @@ body {
 	   max-height: 80px;
 	}
 }
+
+.form-email {
+	display: block;
+}
+
+.form-textarea {
+	display: block;
+}
